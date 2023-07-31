@@ -17,6 +17,6 @@ The Genai Financial Analyst Demo showcases innovative possibilities of financial
 
 ## Interact with your database using Voice recognition
 
-![Image Alt Text](https://drive.google.com/uc?id=/1OfR23PoPRpAlb_CGc3nmd9BCXQHzuw65)
+![Image Alt Text](https://drive.google.com/uc?id=1OfR23PoPRpAlb_CGc3nmd9BCXQHzuw65)
 
 All in SingleStore!
